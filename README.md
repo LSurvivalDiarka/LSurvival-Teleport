@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" alt="LSurvival Teleport Logo" width="100%"/>
+<img src="https://i.imgur.com/89n3apz.jpeg" alt="LSurvival Teleport Logo" width="100%"/>
 
 # 🌀 LSurvival Teleport
 ### The Ultimate "Lag-Free" Teleportation System for RocketMod 4
