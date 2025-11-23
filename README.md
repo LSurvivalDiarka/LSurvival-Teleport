@@ -32,7 +32,7 @@
 
 ## 🚀 Why Choose This Plugin?
 
-Standard teleport plugins often use `FixedUpdate` to check timers, consuming CPU cycles 50 times per second for every player. **LSurvival Teleport** uses a modern asynchronous architecture:
+
 
 * **Zero Idle Usage:** When no one is teleporting, the plugin consumes **0% CPU**.
 * **Unity Coroutines:** Teleport delays (e.g., "Wait 3 seconds") are handled natively by the engine's coroutine system, not by heavy loop checks.
