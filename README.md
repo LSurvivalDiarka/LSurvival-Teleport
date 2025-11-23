@@ -78,6 +78,15 @@ The plugin uses a unified command structure to keep the chat clean.
 
 ---
 
+## 🧪 Live Demo
+
+Want to experience the **Anti-Lag** technology and the visual quality before installing?
+Join our official test server to see it in action:
+
+> **Server IP:** `LSurvival.gamehosting.cl`  
+> **Port:** `29000`
+
+
 ## ⚙️ Configuration
 
 Optimized default settings for survival gameplay:
