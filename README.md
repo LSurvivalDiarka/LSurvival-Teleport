@@ -84,7 +84,7 @@ Optimized default settings for survival gameplay:
 
 ```xml
 <LSurvivalTeleportConfiguration>
-  <Language>ES</Language> <RequestDurationSeconds>15</RequestDurationSeconds>
+  <Language>ES, EN, PT </Language> <RequestDurationSeconds>15</RequestDurationSeconds>
   <TeleportDelaySeconds>3</TeleportDelaySeconds>
   <CooldownSeconds>60</CooldownSeconds>
   
